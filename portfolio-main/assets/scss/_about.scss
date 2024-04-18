@@ -22,14 +22,16 @@
         gap: $gap-4;
       }
 
-      #creator-photo {
+      #creator-foto {
         width: 47%;
-        background-image: url("../image/foto-iuricode.svg");
+        background-image: url('assets/image/logo-gu.jpeg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
         border-radius: 4px;
         height: 500px;
+    
+    
 
         @include responsive-desktop {
           width: 100%;
