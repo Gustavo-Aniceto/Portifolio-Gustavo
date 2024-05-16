@@ -16,3 +16,12 @@ hoverChangeExperience(
   "Mar 2024 - Atual"
 );
 
+hoverChangeExperience(
+  "Suporte & HelpDesk",
+  `Trabalho como suporte e Helpdesk para operadores financeiros`,
+  "Suporte e HelpDesk",
+  "Suporte & HelpDesk",
+  "Mai 2024 - Atual"
+);
+
+

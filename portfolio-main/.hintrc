@@ -11,6 +11,12 @@
           "min-height: auto"
         ]
       }
+    ],
+    "axe/structure": [
+      "default",
+      {
+        "listitem": "off"
+      }
     ]
   }
 }
